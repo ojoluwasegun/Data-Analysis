@@ -1,2 +1,2 @@
 # Data-Analysis
-This repository features, matplotlib, seaborn and pandas visualization
+This repository features folium, plotly, seaborn, pandas plot and matplotlib 
