@@ -1,0 +1,9 @@
+This project features: pandas, numpy, matplotlib, seaborn, dt, folium, basemap, unstack for Pivot, 
+This project examines the following:
+Daily Rush of Uber
+Weekly Uber Rush
+Monthly Uber Rush
+Active Uber Drivers and their respective aggregate dispatch,
+The specific location rush occur
+Rush on Weekdays vs Hours.
+Finaly this project Automate the Rush on Weekdays vs Hour
